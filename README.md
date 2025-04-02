@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkdabas" alt="rkdabas" /></a> </p>
 
-- 🌱 I’m currently learning **Web development, Data structures and algorithms, SQL.**
+- 🌱 I’m currently working on **Generative AI, Web development, Algorithms, SQL, Web-services, CI/CD pipelines**
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
