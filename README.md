@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Kumar Dabas</h1>
-<h3 align="center">A passionate CSE student at DTU'25(formerly DCE).</h3>
+<h3 align="center">No Passion only Obsession, CSE at DTU'25(formerly DCE).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkdabas&label=Profile%20views&color=0e75b6&style=flat" alt="rkdabas" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vert-two-52.vercel.app/](https://portfolio-vert-two-52.vercel.app/)
 
-- 📫 How to reach me **rajatdabas05@gmail.com**
+- 📫 How to reach me **rajatkumardabas@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TJMBMV41FRLk8Vv2571UAGIBQCQWJRr8/view?usp=sharing](https://drive.google.com/file/d/1TJMBMV41FRLk8Vv2571UAGIBQCQWJRr8/view?usp=sharing)
 
