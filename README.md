@@ -1,21 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rajat Kumar Dabas</h1>
-<h3 align="center">No Passion only Obsession, CSE at DTU'25(formerly DCE).</h3>
+<h1 align="center">Hi 👋, I'm Rajat Dabas</h1>
+<h3 align="center">No Passion only Obsession, Plumbing since 2k21.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkdabas&label=Profile%20views&color=0e75b6&style=flat" alt="rkdabas" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkdabas" alt="rkdabas" /></a> </p>
 
-- 🌱 I’m currently working on **Generative AI, Web development, Algorithms, SQL, Web-services, CI/CD pipelines**
+- 🌱 I’m currently working on **GenAI, Web development, Algorithms, SAAS, CI/CD pipelines, AWS, Kafka**
 
-- 👯 I’m looking to collaborate on **open source projects.**
+- 👯 I’m looking to collaborate on **open source projects, SAAS products, crazy ideas**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vert-two-52.vercel.app/](https://portfolio-vert-two-52.vercel.app/)
 
 - 📫 How to reach me **rajatkumardabas@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TJMBMV41FRLk8Vv2571UAGIBQCQWJRr8/view?usp=sharing](https://drive.google.com/file/d/1TJMBMV41FRLk8Vv2571UAGIBQCQWJRr8/view?usp=sharing)
-
-- ⚡ Fun fact **The difference between the novice and the master is that the master has failed more times than the novice has tried.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
