@@ -11,7 +11,7 @@
 - 🌱 Currently deep in AI/LLM systems (RAG, MCP servers), distributed systems, Kafka, AWS, GenAI
 - 👯 Open to collaborating on open source projects, SaaS products, and ambitious ideas
 - 🏆 Competitive programmer — LeetCode Knight (1850+ rating), Global Rank 1001
-- 👨‍💻 Explore my work: **rajatdabas.vercel.app**
+- 👨‍💻 Explore my work:[rajatdabas.vercel.app](https://rajatdabas.vercel.app/)
 - 📫 Reach me at **rajatkumardabas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
