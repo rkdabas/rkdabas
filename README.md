@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rkdabas" alt="rkdabas" /></a> </p>
 
-- 🌱 I’m currently working on **GenAI, Web development, Algorithms, SAAS, CI/CD pipelines, AWS, Kafka**
-
-- 👯 I’m looking to collaborate on **open source projects, SAAS products, crazy ideas**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-vert-two-52.vercel.app/](https://portfolio-vert-two-52.vercel.app/)
-
-- 📫 How to reach me **rajatkumardabas@gmail.com**
+- 💼 Software Engineer @ Paytm, building backend infra for 76M+ MAU at 5,000+ TPS — Kafka pipelines (20K+ events/sec), AI-powered MCP servers, and an internal LLM chatbot (Paytm Rockstar Award 2025)
+- 🤖 Trained flagship models for a top Frontier AI Lab via RLHF — work reserved for top-tier engineers
+- 🏢 Built AI workflow automation for one of India's largest real estate firms, cutting delivery time 20% team-wide
+- 🌱 Currently deep in AI/LLM systems (RAG, MCP servers), distributed systems, Kafka, AWS, GenAI
+- 👯 Open to collaborating on open source projects, SaaS products, and ambitious ideas
+- 🏆 Competitive programmer — LeetCode Knight (1850+ rating), Global Rank 1001
+- 👨‍💻 Explore my work: rajatdabas.vercel.app
+- 📫 Reach me at **rajatkumardabas@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TJMBMV41FRLk8Vv2571UAGIBQCQWJRr8/view?usp=sharing](https://drive.google.com/file/d/1TJMBMV41FRLk8Vv2571UAGIBQCQWJRr8/view?usp=sharing)
 
